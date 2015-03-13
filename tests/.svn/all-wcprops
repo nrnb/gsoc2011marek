@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/26255/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests
+END
+tests-06-line-circle-clipping.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/26026/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-06-line-circle-clipping.html
+END
+tests-08-bezier-curved-edge.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/26026/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-08-bezier-curved-edge.html
+END
+tests-11-svg-performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/26255/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-11-svg-performance.html
+END
+visualization-nom-draft.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/visualization-nom-draft.js
+END
+tests-01.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-01.html
+END
+tests-03-multiple-edges.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-03-multiple-edges.html
+END
+tests-02.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-02.html
+END
+tests-07-arrows.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/26026/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-07-arrows.html
+END
+tests-09-quadratic-bezier-edge.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/26026/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-09-quadratic-bezier-edge.html
+END
+tests-04-object-model-and-dragging.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-04-object-model-and-dragging.html
+END
+raphael-1.5.2-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/25655/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/raphael-1.5.2-min.js
+END
+tests-05-accessors.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/25719/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-05-accessors.html
+END
+tests-10-raphael-performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/26255/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/tests-10-raphael-performance.html
+END
+accessor.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/25719/cytoscapeweb/branches/gsoc2011/cytoscapeweb-svg/tests/accessor.js
+END
